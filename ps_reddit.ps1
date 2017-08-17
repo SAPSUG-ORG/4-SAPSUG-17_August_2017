@@ -20,7 +20,4 @@ $Index | ForEach-Object {
     "author------- " + $SubStorage.data.children.Item($ix).data.author
     "Num_Comments- " + $SubStorage.data.children.Item($ix).data.num_comments
 
-    if ($url -like "*i.redd.it*" -or $url -like "*imgur*") {
-        Show-Pics -url $url
-    }
 }
