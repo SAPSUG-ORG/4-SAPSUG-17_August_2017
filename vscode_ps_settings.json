@@ -1,0 +1,21 @@
+{
+"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+"powershell.startAutomatically": true,
+"powershell.scriptAnalysis.enable": true,
+"powershell.integratedConsole.focusConsoleOnExecute": true,
+
+"editor.quickSuggestions": true,
+"editor.tabCompletion": true,
+"editor.quickSuggestionsDelay": 2,
+
+"powershell.codeFormatting.openBraceOnSameLine": true,
+"powershell.codeFormatting.whitespaceBeforeOpenBrace": true,
+"editor.formatOnType": true,
+
+"editor.parameterHints": false,
+"editor.minimap.enabled": false,
+
+"editor.fontFamily": "Lucida Console",
+"editor.fontSize": 12
+
+}
